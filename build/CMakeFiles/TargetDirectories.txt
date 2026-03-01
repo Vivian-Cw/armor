@@ -1,0 +1,3 @@
+/home/cw/armor/build/CMakeFiles/armor_detector.dir
+/home/cw/armor/build/CMakeFiles/edit_cache.dir
+/home/cw/armor/build/CMakeFiles/rebuild_cache.dir
